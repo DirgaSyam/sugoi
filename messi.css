@@ -1,0 +1,14 @@
+.background{
+	height: 748px;
+	background-image: url('messi.jpeg') ;
+	background-size: cover;
+    background-position: center;
+}
+.text{
+	font-family: 'courier';
+	font-variant: small-caps;
+	font-size: 20pxpx;
+	color: white;
+	line-height: 748px;
+	text-align: center;
+}

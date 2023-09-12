@@ -1,0 +1,30 @@
+.input-box.button input{
+  color: #fff;
+  letter-spacing: 1px;
+  border: none;
+  background: #4070f4;
+  cursor: pointer;
+   width: 50%;
+  height: 50%;
+  outline: none;
+  padding: 0 15px;
+  font-size: 17px;
+  font-weight: 400;
+  color: #333;
+  border: 1.5px solid #C7BEBE;
+  border-bottom-width: 2.5px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+.input-box.button input:active{
+  background: #0e4bf1;
+}
+.p1{
+  color: red;
+  background-color: blue;
+  cursor: pointer;
+}
+.p1:hover{
+  color: red;
+  background-color: white;
+}

@@ -1,0 +1,55 @@
+.head{
+	font-variant: small-caps;
+	text-decoration: underline;
+	letter-spacing: 10px;
+	word-spacing:50px;
+	font-style: italic;
+	font-family: 'Segoe UI'
+}
+p{
+	color: white;
+	background: purple;
+	width: 150px;
+}
+.body1{
+	background: blue;
+}
+h3{
+	font-variant: small-caps;
+	text-decoration: underline;
+	letter-spacing: 10px;
+	word-spacing:50px;
+	font-style: italic;
+	font-family: 'Segoe UI'
+	color: orange;
+}
+.body2{
+	background: green;
+}
+h3{
+	color: orange;
+	text-decoration: underline;
+	font-variant: small-caps;
+	word-spacing:50px;
+}
+form{
+	background: green;
+}
+.p1{
+	background: green;
+	color: black;
+}
+.table{
+	color: white;
+}
+th{
+	color: white;
+}
+tr{
+	color: white;
+}
+.selesai{
+	width: 50px;
+	background: blue;
+	color: white;
+}

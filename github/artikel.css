@@ -1,0 +1,74 @@
+body{
+	background-color: gray;
+	color: black;
+	background-image: url("artikel2.jpg");
+	background-size: cover;
+}
+.container{
+	width: 880px;
+	background: white;
+	margin: auto;
+}
+.header{
+	padding: 15px;
+	padding-bottom: 10px;
+}
+
+.judul{
+	font-family: "courier new", courier,monospace;
+	font-variant: small-caps;
+}
+span{
+	color: blue;
+}
+.header ul li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+	background: white;
+}
+.header a{
+	text-decoration: none;
+	color: salmon;
+	padding: 4px;
+
+}
+.header a:hover{
+	background-color: blue;
+	color: white;
+}
+.banner{
+	height: 300px;
+	background-image: url("artikel.jpg");
+	background-size: cover;
+	background-position: center;
+	border-top: 5px solid green; 
+	border-bottom: 5px solid orange;
+}
+.content{
+	padding: 20px;
+}
+.content h2{
+	font-size: 13px;
+	font-family: ariel, helvetica, sans-serif;
+}
+.content .penulis span{
+	color: salmon;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.content p{
+	margin-bottom: 20px;
+	line-height: 25px;
+	text-align: justify;
+}
+.fotter .cr{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	background-color: blue;
+}
+.fotter{
+	background-color: blue;
+}

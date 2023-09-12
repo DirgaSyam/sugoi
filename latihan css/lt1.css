@@ -1,0 +1,25 @@
+.box1{
+	width: 1000px;
+	height:150px;
+	background: red;
+}
+.box2{
+	width: 1000px;
+	height:230px;
+	background: yellow;
+}
+.box3{
+	width: 1000px;
+	height: 150px;
+	background: green;
+}
+.title{
+	color: white;
+}
+.title2{
+	color: red;
+
+}
+.title3{
+	color: blue;
+}

@@ -1,0 +1,27 @@
+h1{
+	font-family: 'Segoe UI' , Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p{
+	line-height: 30px;
+	font-weight: bold;
+}
+div{
+	color: red;
+}
+span{ color: green;
+
+}
+.head{
+	color: salmon;
+	font-size: 32px;
+	font-variant: small-caps;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 10px;
+	word-spacing:50px;
+}
